@@ -1,0 +1,11 @@
+displayName: Metrics Plugin
+type: middleware
+
+import: github.com/LyuHe-uestc/traefik-plugin-metrics
+
+summary: 'github.com/LyuHe-uestc/traefik-plugin-metrics'
+
+testData:
+  ClientIP = "http://127.0.0.2:8086"
+  ClientBucket = "mydb/autogen"
+  ClientMeasurement = "stat"
