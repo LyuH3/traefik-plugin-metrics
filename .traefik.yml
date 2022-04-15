@@ -6,6 +6,6 @@ import: github.com/LyuHe-uestc/traefik-plugin-metrics
 summary: 'github.com/LyuHe-uestc/traefik-plugin-metrics'
 
 testData:
-  ClientIP : ""
-  ClientBucket : ""
-  ClientMeasurement : ""
+  ClientIP: ""
+  ClientBucket: ""
+  ClientMeasurement: ""
